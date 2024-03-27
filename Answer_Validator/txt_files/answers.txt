@@ -1,0 +1,5 @@
+﻿A - The Sargasso Sea, B - The Mediterranean Sea, C - The Red Sea, D - The Dead Sea
+A - Venice, B - Amsterdam, C - Paris, D - London
+A - The Kalahari Desert, B - The Gobi Desert, C - The Arabian Desert, D - The Sahara Desert
+A - Athens, B - Damascus, C - Jerusalem, D - Rome
+A - Greenland, B - Australia, C - Madagascar, D - Borneo
